@@ -1,0 +1,5 @@
+Estoy aprendiendo Git en la asignatura para control de versiones
+Estoy entendiendo Git en la asignatura
+Estoy aprendiendo Git en Ingenieria de Software para control de versiones
+Estoy entendiendo Git en Ingenieria de Software
+Este texto se agrego desde la rama Development
